@@ -8,12 +8,12 @@ This project contains Jest test suites for JavaScript exercises from the first-y
 
 - Created a new branch `jest-harjoitus1b` for adding Jest tests.
 - Refactored exercise functions to return values instead of logging to console for testability.
-- Implemented Jest tests covering tasks 2, 3, 4, and 5 from Harjoitus 2.4.
+- Implemented Jest tests covering tasks 2, 3, 4, and 5 from Harjoitus 2 from johdatusohjelmointiin .
 - Verified that all tests pass successfully.
 
-### Testability of Harjoitus 2.3 tasks
+### Testability of Harjoitus 2 tasks
 
-During the work, I reviewed Harjoitus 2.3 to see which tasks can be tested with Jest:
+During the work, I reviewed Harjoitus 2 to see which tasks can be tested with Jest:
 
 | Task Number | Testable? | Notes                                             |
 |-------------|-----------|--------------------------------------------------|
@@ -25,7 +25,7 @@ During the work, I reviewed Harjoitus 2.3 to see which tasks can be tested with 
 
 ### Summary
 
-All targeted tasks from Harjoitus 2.4 (2, 3, 4, and 5) were successfully tested with Jest by refactoring code as needed. Some tasks in Harjoitus 2.3 remain untested due to their reliance on console output or DOM-related side effects.
+All targeted tasks from Harjoitus 2 (2, 3, 4, and 5) were successfully tested with Jest by refactoring code as needed. Some tasks in Harjoitus 2.3 remain untested due to their reliance on console output or DOM-related side effects.
 
 ---
 
